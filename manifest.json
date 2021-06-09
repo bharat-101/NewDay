@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Word of the day",
+    "version": "1.0",
+    "description": "Expand your mind with a word of the day",
+    "icons": {
+        "128": "icon128.png",
+        "48": "icon48.png",
+        "16": "icon16.png"
+    },
+    "chrome_url_overrides":{
+        "newtab": "newtab.html"
+    },
+    "background":{
+        "page": "background.html",
+        "persistent": false
+    }
+}
