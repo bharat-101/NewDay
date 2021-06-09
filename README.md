@@ -1,4 +1,5 @@
 # NewDay
+This extension will give you new word every day i.e. Word of the Day to increase your knowledge.
 
 Chrome Extension for the new day.
 
